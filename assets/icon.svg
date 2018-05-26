@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M34.8639144,0 L65.1360856,0 C75.1762529,0 80.1946699,0 85.5980933,1.70833333 C91.4981916,3.855 96.1449357,8.50333333 98.2933049,14.4016667 C100,19.805 100,24.825 100,34.865 L100,65.135 C100,75.175 100,80.1933333 98.2933049,85.5983333 C96.1449357,91.4966667 91.4981916,96.1433333 85.5980933,98.2916667 C80.1946699,100 75.1762529,100 65.1360856,100 L34.8639144,100 C24.8254138,100 19.8053301,100 14.4019067,98.2916667 C8.50180836,96.1433333 3.85506425,91.4966667 1.70669511,85.5983333 C0,80.1933333 0,75.175 0,65.135 L0,34.865 C0,24.825 0,19.805 1.70669511,14.4016667 C3.85506425,8.50333333 8.50180836,3.855 14.4019067,1.70833333 C19.8053301,0 24.8254138,0 34.8639144,0" id="path-1"></path>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#2A2A2A" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="100" height="100"></rect>
+        <linearGradient x1="50%" y1="-22.8595005%" x2="50%" y2="124.060195%" id="linearGradient-6">
+            <stop stop-color="#FF7500" offset="0%"></stop>
+            <stop stop-color="#A54C03" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ICONS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App_Store" transform="translate(-16.000000, -64.000000)">
+            <g id="icon" transform="translate(16.000000, 64.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="mask"></g>
+                <g id="Icon_Art-(Edit-Me)" mask="url(#mask-2)">
+                    <rect id="bg" fill="url(#linearGradient-3)" fill-rule="evenodd" x="0" y="0" width="100" height="100"></rect>
+                    <g id="grid" stroke-width="1" fill-rule="evenodd">
+                        <mask id="mask-5" fill="white">
+                            <use xlink:href="#path-4"></use>
+                        </mask>
+                        <g id="mask"></g>
+                    </g>
+                    <polyline id="path1396" stroke="url(#linearGradient-6)" stroke-width="3.125" points="68.8551641 35.1187379 78.6281708 35.0894387 78.655946 25.6515581 69.0226492 25.6806393 69.0506388 16.1007351 59.4872971 16.1292048 59.4592993 25.7800201 50.105028 25.8082648 50.1338324 16.015625 40.4305827 16.0445142 40.4023693 25.8377548 50.175179 25.8082554 50.1465727 35.6006937 40.44352 35.6297831 40.4163301 45.1383722 49.8397638 45.1103219 49.812582 54.5479998 40.5284628 54.5758333 40.5554395 45.2088662 31.0620506 45.2375279 31.0904679 35.3739782 21.3174624 35.4028756 21.2890625 45.1242014 31.131825 45.094894 31.1032094 54.9586452 40.3871304 54.9310131 40.3595441 64.4400051 50.1327489 64.4105045 50.1039445 74.2031443 40.331333 74.2324422 40.3033353 83.8832575 30.7399935 83.9117273 30.7686091 74.0479761"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
