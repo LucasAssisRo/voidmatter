@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/App-Store/iTunesArtwork@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#2A2A2A" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1024" height="1024"></rect>
+        <linearGradient x1="50%" y1="-22.8595005%" x2="50%" y2="124.060195%" id="linearGradient-4">
+            <stop stop-color="#FF7500" offset="0%"></stop>
+            <stop stop-color="#A54C03" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ICONS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iTunesArtwork@2x">
+            <g id="icons/App-Store/iTunesArtwork@2x">
+                <g id="Icon_Art-(Edit-Me)">
+                    <rect id="bg" fill="url(#linearGradient-1)" fill-rule="evenodd" x="0" y="0" width="1024" height="1024"></rect>
+                    <g id="grid" stroke-width="1" fill-rule="evenodd">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="mask"></g>
+                    </g>
+                    <polyline id="path1396" stroke="url(#linearGradient-4)" stroke-width="32" points="705.076881 359.615876 805.152469 359.315853 805.436887 262.671955 706.791927 262.969747 707.078542 164.871527 609.149922 165.163057 608.863225 263.987406 513.075486 264.276631 513.370444 164 414.009167 164.295825 413.720262 264.578609 513.793833 264.276535 513.500905 364.551103 414.141645 364.848979 413.86322 462.216931 510.359182 461.929696 510.08084 558.571518 415.011459 558.856533 415.287701 462.938789 318.075398 463.232286 318.366392 362.229537 218.290815 362.525447 218 462.071823 318.789888 461.771715 318.496865 562.776526 413.564216 562.493574 413.281731 659.865652 513.359349 659.563566 513.064392 759.840197 412.99285 760.140209 412.706153 858.964557 314.777534 859.256087 315.070557 758.251275"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
