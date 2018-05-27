@@ -1,0 +1,8 @@
+	i {
+		border-radius: 5px;
+		padding: 5px;
+	}
+	
+	i:hover {
+		background-color: #FF7500
+	}
