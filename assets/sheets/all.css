@@ -69,22 +69,28 @@ i:hover {
 @media screen and (max-width: 560px) {
 	body {
 
-		background-size: 80%;
+		background-size: 55%;
 		background-repeat: no-repeat;
-		background-position: 16px 16px;
+		background-position: 50% 43%;
+	}
+
+	.main {
+		padding-top: 48px;
 	}
 
 	.main-title {
 		font-size: 35px; 
+		text-align: center;
 	}
 
 	.main-subtitle {
 		font-size: 20px; 
+		text-align: center;
 	}
 
 	.main-button{
 		width: 180px; 
-		margin: 25vh auto 0;
+		margin: 56vh auto 0;
 		float: none;
 	}
 	.footer {
@@ -92,11 +98,11 @@ i:hover {
 	}
 }
 
-@media screen and (min-width: 560px) and (max-width: 780px) {
+@media screen and (min-width: 560px) and (max-width: 850px) {
 	body {
-		background-size: 35%;
+		background-size: 30%;
 		background-repeat: no-repeat;
-		background-position: 16px 16px;
+		background-position: 32px 32px;
 	}
 
 	i {
@@ -123,7 +129,7 @@ i:hover {
 		margin: 25vh auto 0;
 		float: right;
 	}
-	
+
 	.footer {
 		height: 5vh;
 	}
