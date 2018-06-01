@@ -17,6 +17,7 @@ i {
 	color: white;
 	font-size: 40px; 
 	margin: 10px;
+	transition: all 0.2s ease-in-out;
 }
 
 i:hover {
