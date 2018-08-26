@@ -1,3 +1,7 @@
+* {
+	transition: all 0.2s ease-in-out;
+}
+
 body {
 	background: black;
 	background-image: url(../img/big_logo.svg);
@@ -11,17 +15,23 @@ a {
 	color: black;
 }
 
+a:hover {
+	color: black;
+}
+
 i {
 	border-radius: 5px;
 	padding: 5px;
 	color: white;
 	font-size: 40px; 
 	margin: 10px;
+	text-decoration-color: black;
 	transition: all 0.2s ease-in-out;
 }
 
 i:hover {
 	background-color: #FF7500;
+	text-decoration-color: black;
 }
 
 ::selection {
@@ -50,7 +60,7 @@ i:hover {
 	text-align: right;
 }
 
-.main-button{
+.main-button {
 	margin-top: 25vh;
 	display: block;
 	text-align: right;
@@ -60,6 +70,14 @@ i:hover {
 	float: right;
 }
 
+span.main-button {
+	margin-top: 1vh;
+}
+
+span:hover {
+	color: #FF7500;
+	transition: all 0.2s ease-in-out;
+}
 
 .footer {
 	text-align: right;
@@ -69,7 +87,6 @@ i:hover {
 
 @media screen and (max-width: 560px) {
 	body {
-
 		background-size: 55%;
 		background-repeat: no-repeat;
 		background-position: 50% 43%;
@@ -89,11 +106,16 @@ i:hover {
 		text-align: center;
 	}
 
-	.main-button{
+	.main-button {
 		width: 180px; 
 		margin: 56vh auto 0;
 		float: none;
 	}
+
+	span.main-button {
+		text-align: center;
+	}
+
 	.footer {
 		text-align: center;
 	}
@@ -125,7 +147,7 @@ i:hover {
 		font-size: 20px; 
 	}
 
-	.main-button{
+	.main-button {
 		width: 130px; 
 		margin: 25vh auto 0;
 		float: right;
